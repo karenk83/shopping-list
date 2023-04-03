@@ -2,3 +2,6 @@
 - Eggs
 - Cheese
 - Fruit
+- Veggies
+- Milk
+- Water
